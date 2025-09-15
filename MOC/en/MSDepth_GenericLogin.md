@@ -16,6 +16,8 @@ Username: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
 
 Password: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
 
+TAP: +++@lab.CloudPortalCredential(User1).AccessToken+++
+
 ---
 
 Select **Next** to proceed to the labs.
